@@ -1,3 +1,5 @@
-dataset/
+.idea
+datasets/
 outputs/
 *.pkl
+*.gz
